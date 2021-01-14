@@ -1,0 +1,23 @@
+PYTHON REQUIREMENTS:
+
+Python 3.9
+PyOpenGL v3.1.5
+numpy v1.19.4
+pygame v2.0.0
+
+The program is run from running the 'FurApp.py' program.
+
+lightSource/material were left in as there is scope for the program to be expanded to handle light and multiple
+textures.
+
+The tutorial 'Fur Effects - Teddies, Cats and Hair ...' by dkenwright@xbdev.net on XBDEV.NET was used as a base to learn how fur effects are generated.
+
+BUTTONS:
+L - INCREASES FUR LENGTH
+K - DECREASES FUR LENGTH
+M - INCREASES FUR DENSITY
+N - DECREASES FUR DENSITY
+B - CHANGES MODEL TO BUNNY 
+R - CHANGES MODEL TO ROCK
+CLICK/DRAG - TRANSLATE MODEL
+ARROW KEYS - ROTATE AROUND MODEL
